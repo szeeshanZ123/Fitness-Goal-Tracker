@@ -1,18 +1,21 @@
 {
     "profile": {
         "Name": "Zeeshan",
-        "Age": 20,
+        "Age": 22,
         "Gender": "Male",
-        "Height": 167.0,
-        "Weight": 63.0,
-        "ActivityLevel": "Moderately Active"
+        "Height": 170,
+        "Weight": 70,
+        "ActivityLevel": "Moderately Active",
+        "StartingWeight": 63.0,
+        "TargetWeight": 63.0,
+        "FitnessGoal": "General Fitness"
     },
     "goals": {
         "Steps": 10000,
-        "Water": 5.0,
+        "Water": 3.5,
         "Workout": 45,
-        "CaloriesBurn": 590,
-        "CaloriesIntake": 2500
+        "CaloriesBurn": 500,
+        "CaloriesIntake": 2169
     },
     "daily_logs": {
         "2026-08-24": {
@@ -47,6 +50,9 @@
             "Workouts": []
         }
     },
+    "weight_history": {
+        "2026-09-20": 63.0
+    },
     "achievements": [
         {
             "title": "First Step",
@@ -72,6 +78,16 @@
             "title": "Consistency Master",
             "desc": "Maintained a 3-day active fitness streak.",
             "date": "2026-08-24"
+        },
+        {
+            "title": "Early Starter",
+            "desc": "Logged fitness activities on 3 distinct days.",
+            "date": "2026-09-20"
+        },
+        {
+            "title": "Goal Crusher",
+            "desc": "Scored 100% on your daily fitness score in a day.",
+            "date": "2026-09-20"
         }
     ]
 }

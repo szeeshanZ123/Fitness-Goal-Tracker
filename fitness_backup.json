@@ -1,0 +1,83 @@
+{
+    "profile": {
+        "Name": "Zeeshan",
+        "Age": 22,
+        "Gender": "Male",
+        "Height": 170,
+        "Weight": 70,
+        "ActivityLevel": "Moderately Active",
+        "StartingWeight": 63.0,
+        "TargetWeight": 63.0,
+        "FitnessGoal": "General Fitness"
+    },
+    "goals": {
+        "Steps": 10000,
+        "Water": 3.5,
+        "Workout": 45,
+        "CaloriesBurn": 500,
+        "CaloriesIntake": 2169
+    },
+    "daily_logs": {
+        "2026-08-24": {
+            "Steps": 12500,
+            "Water": 3.75,
+            "Workout": 50,
+            "CaloriesBurned": 520,
+            "CaloriesConsumed": 2100,
+            "Workouts": [
+                {
+                    "Activity": "Running / Jogging (~8 km/h)",
+                    "Duration": 40,
+                    "Calories": 395,
+                    "Time": "08:30"
+                }
+            ]
+        },
+        "2026-08-23": {
+            "Steps": 11000,
+            "Water": 3.0,
+            "Workout": 45,
+            "CaloriesBurned": 460,
+            "CaloriesConsumed": 2200,
+            "Workouts": []
+        },
+        "2026-08-22": {
+            "Steps": 9500,
+            "Water": 2.8,
+            "Workout": 40,
+            "CaloriesBurned": 420,
+            "CaloriesConsumed": 2000,
+            "Workouts": []
+        }
+    },
+    "weight_history": {
+        "2026-09-20": 63.0
+    },
+    "achievements": [
+        {
+            "title": "First Step",
+            "desc": "Logged your first fitness activity.",
+            "date": "2026-08-24"
+        },
+        {
+            "title": "Hydration Hero",
+            "desc": "Achieved your daily water goal.",
+            "date": "2026-08-24"
+        },
+        {
+            "title": "10K Walker Club",
+            "desc": "Walked over 10,000 steps in a single day.",
+            "date": "2026-08-24"
+        },
+        {
+            "title": "Calorie Crusher",
+            "desc": "Burned 500+ active calories in one day.",
+            "date": "2026-08-24"
+        },
+        {
+            "title": "Consistency Master",
+            "desc": "Maintained a 3-day active fitness streak.",
+            "date": "2026-08-24"
+        }
+    ]
+}
