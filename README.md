@@ -31,6 +31,7 @@ A complete, feature-rich, command-line fitness tracking and health analytics app
 ## ✨ Key Features
 
 ### 👤 1. User Profile & Advanced Health Metrics
+
 - **Profile Management:** Store Name, Age, Gender, Height, Weight, and Activity Level.
 - **BMI (Body Mass Index):** Automatic calculation with health categories and personalized advice.
 - **BMR (Basal Metabolic Rate):** Mifflin-St Jeor equation to estimate base metabolic rate.
@@ -39,6 +40,7 @@ A complete, feature-rich, command-line fitness tracking and health analytics app
 - **Ideal Body Weight:** Uses the Devine Formula to calculate healthy target weights and realistic timelines.
 
 ### 🎯 2. Daily Goals Management
+
 - Set and adjust daily targets for:
   - **Steps** (e.g., 10,000 steps)
   - **Water Intake** (e.g., 3.0 Litres)
@@ -48,6 +50,7 @@ A complete, feature-rich, command-line fitness tracking and health analytics app
 - One-click reset to standard healthy recommendations.
 
 ### 🏃 3. Activity & Nutrition Logging
+
 - **Steps Tracking:** Quick-add steps or update total daily count.
 - **Water Hydration Logger:** One-click presets (+250ml glass, +500ml bottle, +1.0L bottle) or custom amount.
 - **Workout Sessions & MET Calorie Estimator:** Select activity types (Walking, Running, Cycling, Strength/Gym, HIIT, Yoga, Swimming, etc.) with automatic calorie burn calculation based on MET values, duration, and body weight.
@@ -55,16 +58,19 @@ A complete, feature-rich, command-line fitness tracking and health analytics app
 - **Quick Update All:** Rapid single-screen update for all metrics.
 
 ### 📊 4. Live Progress Dashboard
+
 - Clean ASCII progress bars for each individual fitness goal.
 - Overall daily completion percentage score with motivational achievement feedback.
 
 ### 📈 5. Multi-Day History & Weekly Analytics
+
 - Date-stamped logs (`YYYY-MM-DD`).
 - **Past 7 Days Summary Table:** Formatted table showing daily steps, water, workouts, calories burned, and completion score.
 - **Weekly Averages:** Automatic calculation of daily averages across active days.
 - **Date Browser & All-Time Stats:** Look up past logs or view personal records (e.g., best step day, longest workout).
 
 ### 🏆 6. Streaks & Gamification Badge System
+
 - **Streak Tracker:** Tracks consecutive active days.
 - **Milestone Achievement Badges:**
   - `First Step` — Logged first fitness activity.
@@ -77,6 +83,7 @@ A complete, feature-rich, command-line fitness tracking and health analytics app
   - `Fitness Enthusiast` — Completed 300+ total workout minutes.
 
 ### 💾 7. Persistence & Summary Report Export
+
 - **Auto-Save & Load:** JSON file storage (`fitness_data.json`) automatically saves changes and loads upon startup.
 - **Export Summary Report:** Generates a formatted text summary report (`fitness_report.txt`) for easy sharing or archiving.
 
@@ -112,17 +119,20 @@ Fitness-Goal-Tracker/
 ## 🚀 Installation & Getting Started
 
 ### Prerequisites
+
 - Python 3.8 or higher installed on your system.
 
 ### Running the Application
 
 1. Clone or download the repository:
+
    ```bash
    git clone https://github.com/szeeshanZ123/Fitness-Goal-Tracker.git
    cd Fitness-Goal-Tracker
    ```
 
 2. Run the application:
+
    ```bash
    python app.py
    ```
@@ -149,7 +159,8 @@ When you start the application, you will be greeted by the Main Menu:
 -----------------------------------
 ```
 
-### Quick Workflow:
+### Quick Workflow
+
 1. **Option 1:** Create your User Profile (Name, Age, Height, Weight, Activity Level).
 2. **Option 2:** Set your target daily goals (Steps, Water, Workout, Calories).
 3. **Option 3:** Log your activities throughout the day (Steps, Water, Workouts, Meals).
@@ -170,9 +181,3 @@ When you start the application, you will be greeted by the Main Menu:
 
 Contributions, issues, and feature requests are welcome!
 Feel free to check out the issues page or fork the repository and submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
